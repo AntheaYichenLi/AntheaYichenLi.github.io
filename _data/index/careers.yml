@@ -1,0 +1,53 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Shape Lab
+    i18n: company_a
+  desc:
+    detail:
+      Program in Unity3d and Java to analyze and visualize 3D model stability as well as provide various stabilization solutions in 3d-mesh forms ready to be 3d-printed and collaborate with research PI
+      Use ARKit and Google Tango to achieve real-time 3d model auto-recognition and visualization with stability analysis in augmented space
+      create mobile apps in Swift and Android Studio for iOS and Android platforms to provide museums with convenient stability analysis and stabilization solutions
+    i18n: company_a_desc
+  date:
+    detail: Present
+    i18n: company_a_date
+  job:
+    detail: Researcher
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: BU Spark!
+    i18n: company_b
+  desc:
+    detail:
+      Developed the Diet, News Feed, and Catalog functionalities and a dynamically generated graph in Java/Android Studio Collaborate in a team of five to build an app for the Health and Fitness company Global Joy
+      Held weekly meetings with clients and designed new development strategies to satisfy new customer needs in an agile development environment
+      Currently working on a machine learning supply demand matching algorithm in a team of three to optimize the matching between health coach and customer
+    i18n: company_b_desc
+  date:
+    detail: May 2018
+    i18n: company_b_date
+  job:
+    detail: Android Developer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: Revlon
+    i18n: company_c
+  desc:
+    detail:
+      Performed Financial Analysis on Quarterly, Monthly, and weekly sales data with respect to time, location, SKUS, launches, and seasonal factors to provide insights for the sales and retail team of the company
+      Created presentations for the monthly finance and sales meeting focusing on different brand pillars to guide future marketing and retail efforts
+      Analyzed the macro market and the seasonal product trends with the historical data provided to strategize for future marketing, branding, and product innovation efforts
+    i18n: company_c_desc
+  date:
+    detail: Aug. 2017
+    i18n: company_c_date
+  job:
+    detail: Corporate Finance Intern
+    i18n: company_c_job
+  icon: fa-plus-square

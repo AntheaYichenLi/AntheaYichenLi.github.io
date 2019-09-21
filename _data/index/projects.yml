@@ -1,0 +1,24 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Augmented Reality 3D Sculpture Retrofit Stabilization Project
+  i18n: jalpc
+  gh_user: antheali
+  url: /liych/html/2018/10/31/AR3DRetrofit.html
+  repo: anthea
+  img: /static/assets/img/landing/ARStability.png
+  desc: Augmented reality (AR) is 3D imaging integrated with live videos processed to give users interactive experience of the real world environment. Much of the research uses AR and photogrammetry 3D meshing technologies to make it more convenient for museums to obtain stability information of sculptures and ways to make the priceless artifacts more stable when displayed or transported.
+        The study includes real-time stability analysis on 3D meshes and real-time retrofitting stabilization solutions are provided subjected to specific user-specified constraints in a mesh format and ready to be downloaded and 3D printed.
+
+- name: #python
+  i18n: #cpython
+  gh_user: #python
+  repo: #cpython
+  img: #/static/assets/img/landing/python.png
+  desc: #This project is other's project. I use another request to get repo's information.
+
+- name: #Google
+  i18n: #google
+  url: #https://google.com
+  img: #/static/assets/img/landing/google.png
+  desc: #This is another project.

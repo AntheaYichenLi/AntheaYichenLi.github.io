@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: Swift, ARkit, Unity,  C++, Python, TensorFlow
+percentage: 100, 100, 100, 85, 75, 40
